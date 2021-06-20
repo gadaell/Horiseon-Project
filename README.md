@@ -12,8 +12,8 @@ When I was buidling the Brand Awareness, Cost Management, and Lead Generation ic
 * CSS
 
 ## Websites
-https://gadaell.github.io/Horiseon-Project/
-https://github.com/gadaell/Horiseon-Project
+* https://gadaell.github.io/Horiseon-Project/
+* https://github.com/gadaell/Horiseon-Project
 
 ## Contribution
 Made by A'Darius (A'D) Ellis
